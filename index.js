@@ -1,1 +1,2 @@
-console.log("Hello World!")
+var name = "Joe"
+var height = "74"
